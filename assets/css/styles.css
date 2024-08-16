@@ -130,7 +130,7 @@ section p, section .card-body p {
 }
 
 .btn:hover {
-  background-color: black;
+  background-color: rgb(124, 124, 124);
   color: white;
 }
 
