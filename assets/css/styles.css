@@ -125,7 +125,6 @@ section p, section .card-body p {
 
 .btn {
   background-color: white;
-  color: black;
   border: 2px solid black;
   transition: all 0.3s;
 }
